@@ -1,5 +1,5 @@
 # gopher-golang-icon
-a gopher-golang-icon using pure css
+a gopher-golang-icon using pure css [Check it out in codepen](https://codepen.io/thisisatefe/pen/vYdrJZv)
 
 ### Final Result
 
